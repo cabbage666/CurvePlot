@@ -15,3 +15,4 @@ windows10  and  Matlab2016b have been tested.
 2.Step
 Clone the files to your computer and import them in Matlab, then PUSH F5.
 3.Results
+![Image text](https://github.com/cabbage666/CurvePlot/blob/master/result.png)
